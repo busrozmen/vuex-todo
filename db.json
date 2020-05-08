@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Udemy'den kurslar alınacak",
+      "description": "Alınacak kurslar: Javascript, Vue, React",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "title": "Kitap okunacak",
+      "description": "Hedef: 150. sayfaya gelmek",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Egzersiz yapılacak",
+      "description": "Yapılacak hareketler: x, y, z",
+      "completed": false
+    }
+  ]
+}

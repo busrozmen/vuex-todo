@@ -1,24 +1,4 @@
-# biges-project
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+todo elements: name, description, completed
+todo transactions: search, delete, update
+firebase was used for login, logout and register operations
+json-server was used as the API server. The following code should be run to listen to the server : json-server --watch dsonb.json
